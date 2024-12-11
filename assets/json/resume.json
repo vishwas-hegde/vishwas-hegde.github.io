@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Vishwas Hegde",
+    "label": "Student at WPI, Intern at Rapiscan Systems",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A Robotics and Machine Learning enthusiast with a strong foundation in motion planning, navigation, and perception.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Worcester",
+      "postalCode": "01609",
+      "city": "",
       "countryCode": "US",
-      "region": "California"
+      "region": "MA"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Vishwas Hegde",
+        "url": "https://www.linkedin.com/in/vishwas-d-hegde/"
       }
     ]
   },
