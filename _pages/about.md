@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Graduate Robotics Student</a>
 
 profile:
   align: right
@@ -13,13 +13,13 @@ profile:
     <p>01609, USA</p>
     <p></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a robotics graduate student at Worcester Polytechnic Institute (WPI), I am pursuing my passion for Robotics and Automation. I currently work at Rapiscan Systems as Computer Vision/Deep Learning intern to leverage generative models for image super resolution and reconstruction. My academic research explores machine learning based motion planning to adaptively finetune planners based on workspace and optimize planner time for robotic arms.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to joining WPI, I gained substantial experience in Smart Factory Solutions and Manufacturing Execution Systems (MES) at Saint-Gobain India Private Limited - Glass Business. I built a SCADA system for a Windows manufacturing plant on Ignition platform, and integrated machine data and production data with MES software.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am actively seeking full-time roles starting May 2025 to explore and apply my diverse skill-set in Robotics, AI, and Automation, and to contribute to innovative and impactful projects. I am eager to learn from industry experts and to collaborate with cross-functional teams to solve real-world problems.
