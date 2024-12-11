@@ -153,38 +153,69 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Automobiles"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Off-road Motorsports"
+    },
+    {
+      "name": "Travel"
+    },
+    {
+      "name": "Skiing"
+    },
+    {
+      "name": "Hiking"
     }
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  {
+    "name": "Vision Based Robotic Manipulation and Grasping",
+    "summary": "Exploring grasp generation with GGCNN and GRConvNet to optimize real-time robotic manipulation and grasp detection in cluttered environments.",
+    "highlights": ["ROS2", "Gazebo"],
+    "startDate": "2024-09-01",
+    "endDate": "Present",
+    "url": ""
+  },
+  {
+    "name": "Real-time Traffic Analysis with Deep Learning",
+    "summary": "Utilized YOLOv8 for real-time object detection and DeepSort for vehicle tracking and counting.",
+    "highlights": ["YOLOv8", "DeepSort", "OpenCV"],
+    "startDate": "2024-08-01",
+    "endDate": "2024-08-31",
+    "url": ""
+  },
+  {
+    "name": "Aircraft State Estimation with INS/GNSS",
+    "summary": "Applied UKF for INS/GNSS integration for state estimation in airplane navigation systems.",
+    "highlights": ["Python"],
+    "startDate": "2024-03-01",
+    "endDate": "2024-04-30",
+    "url": ""
+  },
+  {
+    "name": "Learning Parameters for Kinodynamic Motion Planning",
+    "summary": "Developed CNN models to learn optimal parameters for KPIECE and QRRT motion planners.",
+    "highlights": ["Python", "TensorFlow"],
+    "startDate": "2024-01-01",
+    "endDate": "2024-05-31",
+    "url": ""
+  },
+  {
+    "name": "Learned Sampling Distribution for Robot Motion Planning with CVAE",
+    "summary": "Implemented CVAE to learn non-uniform sampling strategies for diverse configurations, optimizing path planning.",
+    "highlights": ["TensorFlow"],
+    "startDate": "2023-10-01",
+    "endDate": "2023-12-31",
+    "url": ""
+  },
+  {
+    "name": "Autonomous Navigation and Mapping Robot",
+    "summary": "Implemented SLAM with the Navigation Stack and differential drive package of ROS for autonomous navigation and mapping.",
+    "highlights": ["ROS", "Python", "C++"],
+    "startDate": "2020-10-01",
+    "endDate": "2021-05-31",
+    "url": ""
+  }
+]
 }
