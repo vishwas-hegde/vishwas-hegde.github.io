@@ -3,9 +3,9 @@
     "name": "Vishwas Hegde",
     "label": "Student at WPI, Intern at Rapiscan Systems",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "vhegde@wpi.edu",
+    "phone": "(508) 304-5060",
+    "url": "https://vishwas-hegde.github.io/",
     "summary": "A Robotics and Machine Learning enthusiast with a strong foundation in motion planning, navigation, and perception.",
     "location": {
       "address": "Worcester",
@@ -24,140 +24,130 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Rapiscan Systems",
+      "position": "Intern Computer Vision and Deep Learning",
+      "url": "",
+      "startDate": "2024-06-03",
+      "endDate": "Present",
+      "summary": "Implemented Residual Attention based U-Net for X-ray image denoising. Created an efficient pipeline on Azure ML and fine-tuned the model to achieve a PSNR close to 28 dB. Explored Diffusion models for image super-resolution to enhance image quality with cutting edge Generative AI approach.",
+      "highlights": ["Python", "PyTorch", "Tensorflow", "CUDA", "Azure ML"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "ELPIS LAB",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "summary": "Developed adaptive motion planning algorithms for robotic arms using deep learning, with real-time parameter tuning based on point cloud analysis. Formulated a novel planner in OMPL to optimize path planning for dynamic environments.",
+      "highlights": ["Deep Learning", "Motion Planning", "Point Cloud Analysis", "OMPL", "ROS2"]
+    },
+    {
+      "name": "Saint Gobain India Pvt Ltd",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2021-09-01",
+      "endDate": "2023-05-01",
+      "summary": "Designed and implemented Industrial IoT (IIoT) systems on Ignition SCADA for data acquisition and PLC/machine integration. Enhanced workflow efficiency for over 40 production line operators and reduced material wastage by 30% with an alert system for hoppers.",
+      "highlights": ["Industrial IoT", "SCADA", "Edge AI", "PLC Integration", "Workflow Optimization"]
     }
-  ],
+  ]
+  ,
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Worcester Polytechnic Institute",
+      "location": "Worcester, MA, USA",
+      "url": "",
+      "area": "Robotics",
+      "studyType": "MS",
+      "startDate": "2023-08-01",
+      "endDate": "2025-05-01",
+      "score": "4.0/4.0",
+      "courses": [
+        "Robot Control",
+        "Motion Planning",
+        "Advanced Navigation",
+        "Machine Learning",
+        "Robot Dynamics",
+        "Computer Vision"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "institution": "The National Institute of Engineering",
+      "location": "Mysuru, India",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "BE",
+      "startDate": "2017-08-01",
+      "endDate": "2021-07-01",
+      "score": "9.36/10",
+      "courses": [],
+      "highlights": [
+        "First Rank in the Mechanical Engineering Department, 2021",
+        "Endowment Award for highest GPA in senior year"
       ]
     }
-  ],
+  ]
+  ,
+  "skills":[{
+    "name": "Programming Languages",
+    "keywords": [
+      "Python",
+      "C",
+      "C++",
+      "C#",
+      "MATLAB"
+    ]
+  },
+  {
+    "name": "Tools/Frameworks",
+    "keywords": [
+      "ROS",
+      "Azure",
+      "Linux",
+      ".NET",
+      "Solidworks",
+      "Ansys",
+      "Git",
+      "Jira",
+      "PostgreSQL",
+      "Power BI",
+      "Docker"
+    ]
+  },
+  {
+    "name": "Automation and IoT",
+    "keywords": [
+      "Ignition SCADA",
+      "Arduino",
+      "Raspberry Pi"
+    ]
+  },
+  {
+    "name": "Technologies/Packages",
+    "keywords": [
+      "Gazebo",
+      "RViz",
+      "MoveIt",
+      "NumPy",
+      "Pandas",
+      "Scikit-Learn",
+      "SciPy",
+      "TensorFlow",
+      "PyTorch",
+      "OMPL",
+      "OpenCV"
+    ]
+  }
+],     
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Kannada",
+      "fluency": "",
       "icon": ""
     }
   ],
