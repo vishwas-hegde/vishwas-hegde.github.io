@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Grasping from Conveyor Belt
 description: with background image
 img: assets/img/12.jpg
 importance: 1
