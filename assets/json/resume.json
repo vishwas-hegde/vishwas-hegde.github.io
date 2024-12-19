@@ -1,13 +1,13 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Vishwas Hegde",
     "position": "Student at WPI, Intern at Rapiscan Systems",
-    "image": "assets/img/cvpic.jpg",
+    "image": "",
     "email": "vhegde@wpi.edu",
     "phone": "(508) 304-5060",
     "LinkedIn": "https://www.linkedin.com/in/vishwas-d-hegde/",
     "github": "https://github.com/vishwas-hegde",
-    "portfolio": "https://vishwas-hegde.github.io/",
+    "url": "https://vishwas-hegde.github.io/",
     "summary": "A Robotics and Machine Learning enthusiast with a strong foundation in motion planning, navigation, and perception.",
     "location": {
       "address": "Worcester",
