@@ -12,7 +12,7 @@ related_publications:
 A Gazebo simulation to Detect, Track, Synthesize and Execute grasp for objects on a moving conveyor belt using ROS2 Humble.
 
 <center>
-<img src="/assets/img/conveyorgrasp/clutter_grasp-giff.gif" alt="Clutter Grasping Simulation" style="height:200px; width:200px;">
+<img src="/assets/img/conveyorgrasp/clutter_grasp-giff.gif" alt="Clutter Grasping Simulation" style="height:300px; width:400px;">
 </center>
 
 ---
