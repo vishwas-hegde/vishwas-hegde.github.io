@@ -29,11 +29,11 @@ Data obtained with optimal planners is used to train the CVAE. Only the samples 
 <center>
 <div style="display: flex; justify-content: center; gap: 20px;">
     <figure style="text-align: center;">
-        <img src="/assets/img/CVAE/decodersol.png" alt="Image 1" style="height:200px; width:200px;">
+        <img src="/assets/img/CVAE/decodersol.png" alt="Image 1" style="height:200px; width:300px;">
         <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Solution with CVAE Samples</figcaption>
     </figure>
     <figure style="text-align: center;">
-        <img src="/assets/img/CVAE/rrtstarsol.png" alt="Image 2" style="height:200px; width:200px;">
+        <img src="/assets/img/CVAE/rrtstarsol.png" alt="Image 2" style="height:200px; width:300px;">
         <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Solution with RRT* Sample</figcaption>
     </figure>
 </div>
@@ -43,11 +43,11 @@ Data obtained with optimal planners is used to train the CVAE. Only the samples 
 <center>
 <div style="display: flex; justify-content: center; gap: 20px;">
     <figure style="text-align: center;">
-        <img src="/assets/img/CVAE/omnicvae.png" alt="Image 1" style="height:200px; width:200px;">
+        <img src="/assets/img/CVAE/omnicvae.png" alt="Image 1" style="height:200px; width:300px;">
         <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Solution with CVAE Samples</figcaption>
     </figure>
     <figure style="text-align: center;">
-        <img src="/assets/img/CVAE/rrtstaromni.png" alt="Image 2" style="height:200px; width:200px;">
+        <img src="/assets/img/CVAE/rrtstaromni.png" alt="Image 2" style="height:200px; width:300px;">
         <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Solution with RRT* Sample</figcaption>
     </figure>
 </div>
@@ -57,11 +57,11 @@ Data obtained with optimal planners is used to train the CVAE. Only the samples 
 <center>
 <div style="display: flex; justify-content: center; gap: 20px;">
     <figure style="text-align: center;">
-        <img src="/assets/img/CVAE/cvaevprmpoint.png" alt="Image 1" style="height:200px; width:200px;">
+        <img src="/assets/img/CVAE/cvaevprmpoint.png" alt="Image 1" style="height:200px; width:300px;">
         <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Computation Time Comparision</figcaption>
     </figure>
     <figure style="text-align: center;">
-        <img src="/assets/img/CVAE/Costcomparepoint.png" alt="Image 2" style="height:200px; width:200px;">
+        <img src="/assets/img/CVAE/Costcomparepoint.png" alt="Image 2" style="height:200px; width:300px;">
         <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Cost to Goal Comparision</figcaption>
     </figure>
 </div>
@@ -71,11 +71,11 @@ Data obtained with optimal planners is used to train the CVAE. Only the samples 
 <center>
 <div style="display: flex; justify-content: center; gap: 20px;">
     <figure style="text-align: center;">
-        <img src="/assets/img/CVAE/omnitimecompare1.png" alt="Image 1" style="height:200px; width:200px;">
+        <img src="/assets/img/CVAE/omnitimecompare1.png" alt="Image 1" style="height:200px; width:300px;">
         <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Computation Time Comparision</figcaption>
     </figure>
     <figure style="text-align: center;">
-        <img src="/assets/img/CVAE/omnicostcompare.png" alt="Image 2" style="height:200px; width:200px;">
+        <img src="/assets/img/CVAE/omnicostcompare.png" alt="Image 2" style="height:200px; width:300px;">
         <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Cost to Goal Comparision</figcaption>
     </figure>
 </div>
