@@ -2,7 +2,7 @@
 layout: page
 title: CVAE based Motion Planning
 description: 
-img: assets/img/conveyorgrasp/clutter_grasp-giff.gif
+img: /assets/img/CVAE/omnicvae.png
 importance: 2
 category: Academic
 related_publications: 
@@ -35,6 +35,48 @@ Data obtained with optimal planners is used to train the CVAE. Only the samples 
     <figure style="text-align: center;">
         <img src="/assets/img/CVAE/rrtstarsol.png" alt="Image 2" style="height:200px; width:200px;">
         <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Solution with RRT* Sample</figcaption>
+    </figure>
+</div>
+</center>
+
+#### Results for Omni-directional Robot
+<center>
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <figure style="text-align: center;">
+        <img src="/assets/img/CVAE/omnicvae.png" alt="Image 1" style="height:200px; width:200px;">
+        <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Solution with CVAE Samples</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="/assets/img/CVAE/rrtstaromni.png" alt="Image 2" style="height:200px; width:200px;">
+        <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Solution with RRT* Sample</figcaption>
+    </figure>
+</div>
+</center>
+
+#### Time and Cost Comparision for Point Robot
+<center>
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <figure style="text-align: center;">
+        <img src="/assets/img/CVAE/cvaevprmpoint.png" alt="Image 1" style="height:200px; width:200px;">
+        <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Computation Time Comparision</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="/assets/img/CVAE/Costcomparepoint.png" alt="Image 2" style="height:200px; width:200px;">
+        <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Cost to Goal Comparision</figcaption>
+    </figure>
+</div>
+</center>
+
+#### Time and Cost Comparision for Omni-directional Robot
+<center>
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <figure style="text-align: center;">
+        <img src="/assets/img/CVAE/omnitimecompare1.png" alt="Image 1" style="height:200px; width:200px;">
+        <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Computation Time Comparision</figcaption>
+    </figure>
+    <figure style="text-align: center;">
+        <img src="/assets/img/CVAE/omnicostcompare.png" alt="Image 2" style="height:200px; width:200px;">
+        <figcaption style="margin-top: 5px; font-size: 14px; color: gray;">Cost to Goal Comparision</figcaption>
     </figure>
 </div>
 </center>

@@ -2,7 +2,7 @@
 layout: page
 title: Grasping from Conveyor Belt
 description: 
-img: assets/img/conveyorgrasp/clutter_grasp-giff.gif
+img: assets/img/conveyorgrasp/env.png
 importance: 1
 category: Academic
 related_publications: 
@@ -18,6 +18,10 @@ A Gazebo simulation to Detect, Track, Synthesize and Execute grasp for objects o
 ---
 
 ### Workflow Steps:
+
+<center>
+<img src="/assets/img/conveyorgrasp/workflow.png" alt="Clutter Grasping Simulation" style="height:300px; width:400px;">
+</center>
 
 1. **Object Detection and Center Extraction**  
    - When an object is spawned in the workspace, the YOLO server processes the overhead camera feed.  
