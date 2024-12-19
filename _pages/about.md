@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 As a robotics graduate student at Worcester Polytechnic Institute (WPI), I am pursuing my passion for Robotics and Automation. I currently work at Rapiscan Systems as Computer Vision/Deep Learning intern to leverage generative models for image super resolution and reconstruction. My academic research explores machine learning based motion planning to adaptively finetune planners based on workspace and optimize planner time for robotic arms.
