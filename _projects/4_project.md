@@ -15,39 +15,39 @@ Projects from RBE595-ST Advanced Robotic Navigation course.
 For detailed implementation and explanation [visit](https://github.com/vishwas-hegde/Robot-Navigation/blob/main/Nonlinear%20Kalman%20Filter/nonlinear_kalman_visuals.ipynb)
 
 <center>
-    <img src="/assets/img/advnav/UKF/3dplot.png" height="300px" width="300px">
+    <img src="/assets/img/advnav/UKF/3dplot.png" height="300px" width="400px">
 </center>
 <br>
 <center>
-    <img src="/assets/img/advnav/UKF/position.png" height="300px" width="300px">
+    <img src="/assets/img/advnav/UKF/position.png" height="300px" width="400px">
 </center>
 <br>
 <center>
-    <img src="/assets/img/advnav/UKF/orientation.png" height="300px" width="300px">
+    <img src="/assets/img/advnav/UKF/orientation.png" height="300px" width="400px">
 </center>
 
 ### Particle Filter:
 For detailed implementation and explanation [visit](https://github.com/vishwas-hegde/Robot-Navigation/blob/main/Particle%20Filter/pf_visuals.ipynb)
 
 <center>
-    <img src="/assets/img/advnav/PF/3dplot.png" height="300px" width="300px">
+    <img src="/assets/img/advnav/PF/3dplot.png" height="300px" width="400px">
 </center>
 <br>
 <center>
-    <img src="/assets/img/advnav/PF/position.png" height="300px" width="300px">
+    <img src="/assets/img/advnav/PF/position.png" height="300px" width="400px">
 </center>
 <br>
 <center>
-    <img src="/assets/img/advnav/PF/orientation.png" height="300px" width="300px">
+    <img src="/assets/img/advnav/PF/orientation.png" height="300px" width="400px">
 </center>
 
 ### INS-GNSS Integration:
 For detailed implementation and explanation [visit](https://github.com/vishwas-hegde/Robot-Navigation/blob/main/GNSS%20Integration/INS_visuals.ipynb)
 
 <center>
-    <img src="/assets/img/advnav/INS/latlongalt.png" height="300px" width="300px">
+    <img src="/assets/img/advnav/INS/latlongalt.png" height="300px" width="700px">
 </center>
 <br>
 <center>
-    <img src="/assets/img/advnav/INS/trajectory.png" height="300px" width="300px">
+    <img src="/assets/img/advnav/INS/trajectory.png" height="300px" width="400px">
 </center>
