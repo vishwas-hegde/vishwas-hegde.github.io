@@ -11,6 +11,7 @@ related_publications:
 ### Intro:
 This project focuses on the development of a quadrotor control system designed to intercept unauthorized UAVs using Linear Quadratic Regulation (LQR). The goal is to design a controller that enables a quadrotor to detect, track, and capture an intruding UAV within a defined airspace. The system incorporates advanced state estimation techniques, such as the Kalman filter, for real-time tracking and trajectory prediction. By minimizing the cost function involving state and control input penalties, the LQR controller optimizes performance in terms of precision and efficiency. The final design ensures that the quadrotor can autonomously intercept the UAV and return to base with minimal energy usage and maximum control precision.
 
+Find the code [here](https://github.com/vishwas-hegde/RBE502_UAV_Interceptor/tree/main)
 <center>
 <img src="/assets/img/lqr/catch.jpg" height="300px">
 </center>

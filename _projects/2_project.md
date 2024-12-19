@@ -10,7 +10,7 @@ related_publications:
 
 ### Intro:
 Using CVAE to generate samples for motion planning. Input includes start, goal, and the workspace. Output is the non-unifrom sample generation.
-
+Find the code [here](https://github.com/vishwas-hegde/Robot-Motion-Planning/tree/main/Motion%20Planning%20with%20CVAE)
 #### Training Data:
 Data obtained with optimal planners is used to train the CVAE. Only the samples of the path from start to goal are selected.
 
