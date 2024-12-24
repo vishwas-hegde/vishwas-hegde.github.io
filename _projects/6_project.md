@@ -16,14 +16,12 @@ Integrating Llama 3.3 70B with ROS2 Navigation stack to generate navigation wayp
 </center>
 
 <center>
-    <iframe width="800" height="450" 
-            src="https://youtu.be/RA1Rz5aAtqU" 
-            title="LLM Navigation Demo" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen>
-    </iframe>
+    <video width="800" height="450" controls>
+        <source src="/assets/img/llm/navigation/llm_navigation_demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </center>
+
 
 
 ### Navigation:
