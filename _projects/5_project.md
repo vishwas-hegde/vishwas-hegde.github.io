@@ -3,7 +3,7 @@ layout: page
 title: Traffic Detection with YOLO
 description: 
 img: /assets/img/computervision/traffic/frontpage.png
-importance: 5
+importance: 6
 category: Academic
 related_publications: 
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Grasping from Conveyor Belt
 description: 
 img: assets/img/conveyorgrasp/env.png
-importance: 1
+importance: 2
 category: Academic
 related_publications: 
 ---

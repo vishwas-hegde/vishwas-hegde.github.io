@@ -3,7 +3,7 @@ layout: page
 title: CVAE based Motion Planning
 description: 
 img: /assets/img/CVAE/omnicvae.png
-importance: 2
+importance: 3
 category: Academic
 related_publications: 
 ---

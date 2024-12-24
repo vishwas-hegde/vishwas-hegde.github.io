@@ -3,7 +3,7 @@ layout: page
 title: LQR Control for Drone
 description: 
 img: /assets/img/lqr/catch.jpg
-importance: 3
+importance: 4
 category: Academic
 related_publications: 
 ---
