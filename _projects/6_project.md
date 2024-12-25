@@ -12,11 +12,7 @@ related_publications:
 Integrating Llama 3.3 70B with ROS2 Navigation stack to generate navigation waypoint sequence based on user input. Visit [here](https://github.com/vishwas-hegde/LLM-Navigation/tree/main) for code.
 
 <center>
-    <img src="/assets/img/llm/navigation/llm_navigationgif.gif" height="600px">
-</center>
-
-<center>
-    <video width="800" height="450" controls>
+    <video width="1200" height="850" controls>
         <source src="/assets/img/llm/navigation/llm_navigation_demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
