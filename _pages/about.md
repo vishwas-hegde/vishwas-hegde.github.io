@@ -18,16 +18,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/img/frontpage_symbols/wpi.png" alt="Description of Image 1" style="width: 20%; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/wpi.png" alt="Description of Image 1" style="width: 30%; height: auto;"/>
   <img src="assets/img/frontpage_symbols/rapiscan.png" alt="Description of Image 2" style="width: 40%; height: auto;"/>
 </div>
 <!-- <img src="assets/img/frontpage_symbols/roboticsandai_logo.png" alt="Alt text for the image" title="Optional title" style="width: 20%; height: auto;"/>
 <br> -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/img/frontpage_symbols/motion_planning.png" alt="Description of Image 1" style="width: 25%; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/navigation.png" alt="Description of Image 2" style="width: 25%; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/computervision.png" alt="Description of Image 3" style="width: 25%; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/llm.png" alt="Description of Image 4" style="width: 25%; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/motion_planning.png" alt="Description of Image 1" style="width: 22%; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/navigation.png" alt="Description of Image 2" style="width: 22%; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/computervision.png" alt="Description of Image 3" style="width: 22%; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/llm.png" alt="Description of Image 4" style="width: 22%; height: auto;"/>
 </div>
 
 ## Software Skills
@@ -38,6 +38,9 @@ social: true # includes social icons at the bottom of the page
   <img src="assets/img/frontpage_symbols/ros2.png" alt="Logo 3" title="Software 3" style="width: 50px; height: auto;"/>
   <img src="assets/img/frontpage_symbols/gazebo.png" alt="Logo 4" title="Software 4" style="width: 50px; height: auto;"/>
   <img src="assets/img/frontpage_symbols/docker.png" alt="Logo 5" title="Software 5" style="width: 50px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/issac.png" alt="Logo 6" title="Software 5" style="width: 50px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/pybullet.png" alt="Logo 7" title="Software 5" style="width: 50px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/rviz.png" alt="Logo 8" title="Software 5" style="width: 50px; height: auto;"/>
 </div>
 
 
