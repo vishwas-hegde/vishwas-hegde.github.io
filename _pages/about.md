@@ -31,6 +31,16 @@ social: true # includes social icons at the bottom of the page
 </div>
 <br>
 
+
+
+As a robotics graduate student at WPI, I am pursuing my passion for Robotics and Automation. I currently work at Rapiscan Systems as Computer Vision/Deep Learning intern to leverage generative models for image super resolution and reconstruction. My academic research explores machine learning based motion planning to adaptively finetune planners based on workspace and optimize planner time for robotic arms.
+
+Prior to joining WPI, I gained substantial experience in Smart Factory Solutions and Manufacturing Execution Systems (MES) at Saint-Gobain India Private Limited - Glass Business. I built a SCADA system for a Windows manufacturing plant on Ignition platform, and integrated machine data and production data with MES software.
+
+I am actively seeking full-time roles starting May 2025 to explore and apply my diverse skill-set in Robotics, AI, and Automation, and to contribute to innovative and impactful projects. I am eager to learn from industry experts and to collaborate with cross-functional teams to solve real-world problems.
+
+<br>
+
 #### Software Skills
 
 <div class="logo-grid">
@@ -43,14 +53,4 @@ social: true # includes social icons at the bottom of the page
   <img src="assets/img/frontpage_symbols/pybullet.png" alt="Logo 7" title="Software 5" style="width: 50px; height: auto;"/>
   <img src="assets/img/frontpage_symbols/rviz.png" alt="Logo 8" title="Software 5" style="width: 50px; height: auto;"/>
 </div>
-
-
-
-As a robotics graduate student at WPI, I am pursuing my passion for Robotics and Automation. I currently work at Rapiscan Systems as Computer Vision/Deep Learning intern to leverage generative models for image super resolution and reconstruction. My academic research explores machine learning based motion planning to adaptively finetune planners based on workspace and optimize planner time for robotic arms.
-
-Prior to joining WPI, I gained substantial experience in Smart Factory Solutions and Manufacturing Execution Systems (MES) at Saint-Gobain India Private Limited - Glass Business. I built a SCADA system for a Windows manufacturing plant on Ignition platform, and integrated machine data and production data with MES software.
-
-I am actively seeking full-time roles starting May 2025 to explore and apply my diverse skill-set in Robotics, AI, and Automation, and to contribute to innovative and impactful projects. I am eager to learn from industry experts and to collaborate with cross-functional teams to solve real-world problems.
-
-
 
