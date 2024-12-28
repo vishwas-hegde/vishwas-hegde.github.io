@@ -29,8 +29,9 @@ social: true # includes social icons at the bottom of the page
   <img src="assets/img/frontpage_symbols/computervision.png" alt="Description of Image 3" style="width: 22%; height: auto;"/>
   <img src="assets/img/frontpage_symbols/llm.png" alt="Description of Image 4" style="width: 22%; height: auto;"/>
 </div>
+<br>
 
-## Software Skills
+#### Software Skills
 
 <div class="logo-grid">
   <img src="assets/img/frontpage_symbols/python.png" alt="Logo 1" title="Software 1" style="width: 50px; height: auto;"/>
