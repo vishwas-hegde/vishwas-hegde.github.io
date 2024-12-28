@@ -17,11 +17,13 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+<img src="assets/img/frontpage_symbols/roboticsandai_logo.png" alt="Alt text for the image" title="Optional title" style="width: 50%; height: auto;"/>
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="assets/img/frontpage_symbols/motion_planning.png" alt="Description of Image 1" style="width: 30%; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/navigation.png" alt="Description of Image 2" style="width: 30%; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/computervision.png" alt="Description of Image 3" style="width: 30%; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/llm.png" alt="Description of Image 4" style="width: 30%; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/motion_planning.png" alt="Description of Image 1" style="width: 10%; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/navigation.png" alt="Description of Image 2" style="width: 10%; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/computervision.png" alt="Description of Image 3" style="width: 10%; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/llm.png" alt="Description of Image 4" style="width: 10%; height: auto;"/>
 </div>
 
 As a robotics graduate student at Worcester Polytechnic Institute (WPI), I am pursuing my passion for Robotics and Automation. I currently work at Rapiscan Systems as Computer Vision/Deep Learning intern to leverage generative models for image super resolution and reconstruction. My academic research explores machine learning based motion planning to adaptively finetune planners based on workspace and optimize planner time for robotic arms.
