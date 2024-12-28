@@ -44,13 +44,13 @@ I am actively seeking full-time roles starting May 2025 to explore and apply my 
 #### Software Skills
 
 <div class="logo-grid">
-  <img src="assets/img/frontpage_symbols/python.png" alt="Logo 1" title="Software 1" style="width: 50px; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/c++.png" alt="Logo 2" title="Software 2" style="width: 50px; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/ros2.png" alt="Logo 3" title="Software 3" style="width: 50px; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/gazebo.png" alt="Logo 4" title="Software 4" style="width: 50px; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/docker.png" alt="Logo 5" title="Software 5" style="width: 50px; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/issac.png" alt="Logo 6" title="Software 5" style="width: 50px; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/pybullet.png" alt="Logo 7" title="Software 5" style="width: 50px; height: auto;"/>
-  <img src="assets/img/frontpage_symbols/rviz.png" alt="Logo 8" title="Software 5" style="width: 50px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/python.png" alt="Logo 1" title="Software 1" style="width: 80px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/c++.png" alt="Logo 2" title="Software 2" style="width: 80px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/ros2.png" alt="Logo 3" title="Software 3" style="width: 80px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/gazebo.png" alt="Logo 4" title="Software 4" style="width: 80px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/docker.png" alt="Logo 5" title="Software 5" style="width: 80px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/issac.png" alt="Logo 6" title="Software 5" style="width: 80px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/pybullet.png" alt="Logo 7" title="Software 5" style="width: 80px; height: auto;"/>
+  <img src="assets/img/frontpage_symbols/rviz.png" alt="Logo 8" title="Software 5" style="width: 80px; height: auto;"/>
 </div>
 
