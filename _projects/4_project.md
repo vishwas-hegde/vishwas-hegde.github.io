@@ -3,7 +3,7 @@ layout: page
 title: Robot Navigation Projects
 description: 
 img: /assets/img/advnav/frontpage.png
-importance: 5
+importance: 6
 category: Academic
 related_publications: 
 ---
